@@ -15,7 +15,3 @@ sudo systemctl enable ssh
 \`\`\`bash
 ssh -p 2222 istifadeci_adi@127.0.0.1
 \`\`\`
-
-## Qarşılaşdığım problemlər
-- Connection refused → port forwarding qaydasını yoxla
-- ...
