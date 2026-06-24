@@ -1,0 +1,9 @@
+date - tarixi gosterir
+cal - calendar
+uptime - sistemin isleme vaxti
+whoami - hansi istifadeci
+id - istifadecinin id detallari
+man - sened oxuyur, melumat verir
+who / w - serverde kim isleyir, neyi isledir onu gosterir
+
+QEYD : DE ilk olaraq ise baslayanda adeten who / w, uptime kimi emrleri ise salaraq umumi veziyyete baxir
